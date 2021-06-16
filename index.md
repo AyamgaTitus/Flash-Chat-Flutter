@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to FLASH CHAT
 
-You can use the [editor on GitHub](https://github.com/AyamgaTitus/Flash-Chat-Flutter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+View Codes at [Flash Chat](https://github.com/AyamgaTitus/Flash-Chat-Flutter/edit/gh-pages/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WHAT'S FLASH CHAT IS ABOUT
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+       Flash chat is a chat Appliacation created in flutter
+       It can be installed in both Android and IOS deviceses
+       
 
 ```markdown
-Syntax highlighted code block
+SOME OTHER PROJECT CREATED BY DEVOLOPER
 
-# Header 1
-## Header 2
-### Header 3
+# Inspiration
+## COP - Tepa Area
+### Flash Chat
 
 - Bulleted
 - List
